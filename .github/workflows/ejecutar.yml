@@ -23,4 +23,4 @@ jobs:
           python -m playwright install --with-deps chromium
 
       - name: Ejecutar script
-        run: python main.py
+        run: python open_url.py
