@@ -3,7 +3,7 @@ import sys
 
 from playwright.async_api import async_playwright
 
-DEFAULT_URL = "https://example.com"
+DEFAULT_URL = "https://tr-rutaoptima-viladecans-mvpkckcfbq29n7sxr2vdpx.streamlit.app/"
 WAIT_SECONDS = 30
 
 
